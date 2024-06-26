@@ -24,12 +24,13 @@ Please dont forget to star 🌟 the repositories!
 |             | [AOA](https://github.com/Aatmaj-Zephyr/AOA)                                         | Analysis of Algorithms notes and practical codes                  |
 |             | [RDBMS](https://github.com/Aatmaj-Zephyr/RDBMS)                                     | Database code and writeups                                        |
 |             | [WPL](https://github.com/Aatmaj-Zephyr/WPL)                                         | Web programming code and writeups                                 |
+|             | [Django](https://github.com/sushantnair/Django-Tutorial)                            | Django code and drive notes                                       |
 | Third Year  | [Operating Systems](https://github.com/Aatmaj-Zephyr/OS)                            | OS experiments                                                    |
 |             | [Computer Networks](https://github.com/Aatmaj-Zephyr/Computer-networks)             | CN experiments                                                    |
 |             | [Computer Graphics](https://github.com/Aatmaj-Zephyr/ComputerGraphics)              | Experiments                                                       |
 |             | [Information security](https://github.com/Aatmaj-Zephyr/information-security)       | IS handwritten notes, important questions,  Lab code and writeups |
 |             | [Artificial Intelligence](https://github.com/Aatmaj-Zephyr/AI-Notes)                | AI important questions, Lab code and writeups                     |
-|             | [Image processing][https://github.com/Aatmaj-Zephyr/DSIP)                           | DSIP handwritten notes, lab code and writeups                     |
+|             | [Image processing](https://github.com/Aatmaj-Zephyr/DSIP)                           | DSIP handwritten notes, lab code and writeups                     |
 |             | [Machine Learning](https://github.com/Aatmaj-Zephyr/Machine-Learning-Lab)           | ML lab code and writeups                                          |
 | Final Year  |                                                                                     |                                                                   |
 |             |                                                                                     |                                                                   |
