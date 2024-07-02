@@ -39,6 +39,8 @@ Please access them from Somaiya Mail ID from desktop.
 
 1) Links to past year papers - https://drive.google.com/drive/folders/1RNFaYqhC2TZiy3xr0IBFxQ6YlD5DJD_7?usp=sharing
 2) Link to extra past year papers and solutions - https://drive.google.com/drive/folders/18fNsY9SdEaULGZBf8fGARAhjG7nKP8rs?usp=sharing
+3) Link to AOA lab writeups and C++ code.
+https://drive.google.com/drive/folders/1aZdEPVMzT7xFUQlF3hUJbR86C7Yo0Sta 
 
 ______
 
