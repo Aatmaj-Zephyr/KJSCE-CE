@@ -21,7 +21,7 @@ Please dont forget to star 🌟 the repositories!
 |             | [RDBMS](https://github.com/Aatmaj-Zephyr/RDBMS)                                     | Database code and writeups                                        |
 |             | [WPL](https://github.com/Aatmaj-Zephyr/WPL)                                         | Web programming code and writeups                                 |
 |             | [Django](https://github.com/sushantnair/Django-Tutorial)                            | Django code and drive notes                                       |
-              | [SY](https://github.com/Soumilgit/SY-resources)                                     | ADS,AOA,DDL,DS,DV,ITVC,PSOT,WPL notes and writeups                |
+|             | [SY](https://github.com/Soumilgit/SY-resources)                                     | ADS,AOA,DDL,DS,DV,ITVC,PSOT,WPL notes and writeups                |
 | Third Year  | [Operating Systems](https://github.com/Aatmaj-Zephyr/OS)                            | OS experiments                                                    |
 |             | [Computer Networks](https://github.com/Aatmaj-Zephyr/Computer-networks)             | CN experiments                                                    |
 |             | [Computer Graphics](https://github.com/Aatmaj-Zephyr/ComputerGraphics)              | Experiments                                                       |
