@@ -1,10 +1,6 @@
 ### KJSCE - computer Engineering
 Links to material, lab writeups, notes, code for KJSCE - Computer Engineering.
 
-> Disclaimer: This repository is made by students for students. You can use the material only for your own education. This material is not intended for copy-pasting code or writeups. 
-
-> Please remember that this repository is for helping students and not encouraging in any malpractises. Anti-plagarism measures taken by the college will detect this code and strict action will be taken against you, hence refrain from copying any part of this material. Please do not use this repository to just copy paste the code or the solutions. Try to understand this on your own and then try it out. For any doubts, please raise an issue on the respective repository for seeking help.
-
 Please dont forget to star 🌟 the repositories!
 
 
@@ -42,7 +38,26 @@ Please access them from Somaiya Mail ID from desktop.
 1) Links to past year papers - https://drive.google.com/drive/folders/1RNFaYqhC2TZiy3xr0IBFxQ6YlD5DJD_7?usp=sharing
 2) Link to extra past year papers and solutions - https://drive.google.com/drive/folders/18fNsY9SdEaULGZBf8fGARAhjG7nKP8rs?usp=sharing
 
+______
+
+### Special thanks to:
+
+<a href="https://github.com/Aatmaj-Zephyr/KJSCE-CE/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Aatmaj-Zephyr/KJSCE-CE" />
+</a>	
+	
+______
 
 
-### Want to contribute?
-Please read the contributing guidelines.
+## 🤝 Help to Grow the Community.
+
+Have something useful to share? Please make a pull request. Also please read the [contributing guidelines](https://github.com/Aatmaj-Zephyr/KJSCE-CE/blob/main/contributing.md).
+
+
+______
+
+
+> Disclaimer: This repository is made by students for students. You can use the material only for your own education. This material is not intended for copy-pasting code or writeups. 
+
+> Please remember that this repository is for helping students and not encouraging in any malpractises. Anti-plagarism measures taken by the college will detect this code and strict action will be taken against you, hence refrain from copying any part of this material. Please do not use this repository to just copy paste the code or the solutions. Try to understand this on your own and then try it out. For any doubts, please raise an issue on the respective repository for seeking help.
+
