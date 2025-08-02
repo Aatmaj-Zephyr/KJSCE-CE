@@ -21,7 +21,7 @@ Please dont forget to star 🌟 the repositories!
 |             | [RDBMS](https://github.com/Aatmaj-Zephyr/RDBMS)                                     | Database code and writeups                                        |
 |             | [WPL](https://github.com/Aatmaj-Zephyr/WPL)                                         | Web programming code and writeups                                 |
 |             | [Django](https://github.com/sushantnair/Django-Tutorial)                            | Django code and drive notes                                       |
-|             | [SY Notes](https://github.com/MinavKaria/SY-Notes)				                          | Other bunch of helpful SY Notes                                   |
+|             | [SY Notes](https://github.com/MinavKaria/SY-Notes)				    | Other bunch of helpful SY Notes                                   |
 |             | [SY](https://github.com/Soumilgit/SY-resources)                                     | ADS,AOA,DDL,DS,DV,ITVC,PSOT,WPL notes and writeups                |
 | Third Year  | [Operating Systems](https://github.com/Aatmaj-Zephyr/OS)                            | OS experiments                                                    |
 |             | [Computer Networks](https://github.com/Aatmaj-Zephyr/Computer-networks)             | CN experiments                                                    |
@@ -29,16 +29,18 @@ Please dont forget to star 🌟 the repositories!
 |             | [Information security](https://github.com/Aatmaj-Zephyr/information-security)       | IS handwritten notes, important questions,  Lab code and writeups |
 |             | [Artificial Intelligence](https://github.com/Aatmaj-Zephyr/AI-Notes)                | AI important questions, Lab code and writeups                     |
 |             | [Image processing](https://github.com/Aatmaj-Zephyr/DSIP)                           | DSIP handwritten notes, lab code and writeups                     |
-|             | [Machine Learning](https://github.com/Aatmaj-Zephyr/Machine-Learning-Lab)           | ML lab code and writeups                                          |
-| Final Year  |                                                                                     |                                                                   |
-|             |                                                                                     |                                                                   |
+|             | [Machine Learning Lab](https://github.com/Aatmaj-Zephyr/Machine-Learning-Lab)       | ML lab code and writeups                                          |
+|             | [Machine Learning Notes](https://github.com/Aatmaj-Zephyr/Machine-Learning-notes)   | ML handwritten notes                                              |
+| Final Year  | [Computer Simulation and Modelling](https://github.com/Aatmaj-Zephyr/CSM)           | CSM lab code & handwritten notes						|
+|             | [Reinforcement Learning Lab](https://github.com/Aatmaj-Zephyr/Reinforcement-learning-lab)| RL lab code. (Please refer ML notes repo for RL notes)	| 
+| 	      | [Software Arcitecture & Design Thinking](https://github.com/Aatmaj-Zephyr/SADT)     | SADT lab writeups & handwritten notes				|
 
 #### Drive Links
 
 Please access them from Somaiya Mail ID from desktop.
 
 1) Links to past year papers - https://drive.google.com/drive/folders/1RNFaYqhC2TZiy3xr0IBFxQ6YlD5DJD_7?usp=sharing
-2) Link to extra past year papers and solutions - https://drive.google.com/drive/folders/18fNsY9SdEaULGZBf8fGARAhjG7nKP8rs?usp=sharing
+2) Link to extra past year papers and solutions - https://drive.google.com/file/d/1o3loREE-ly2EnkbGrcfjYBXr-2796qfz/view?usp=sharing
 3) Link to AOA lab writeups and C++ code.
 https://drive.google.com/drive/folders/1aZdEPVMzT7xFUQlF3hUJbR86C7Yo0Sta 
 
